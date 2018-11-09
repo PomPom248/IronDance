@@ -13,8 +13,8 @@ window.onload = function () {
         canvas.startingGame()
     }
     document.getElementById("three").onclick = function () { 
-        var musicTwo = new Audio("Audio/butterfly.mp3"); 
-        musicTwo.play(); 
+        var musicThree = new Audio("Audio/butterfly.mp3"); 
+        musicThree.play(); 
         canvas.startingGame()
     }
 }
