@@ -1,5 +1,5 @@
 # IronDance
-Es un divertido juego que combina ritmo y agilidad. 
+## Es un divertido juego que combina ritmo y agilidad. 
 
 Durante este, 4 flechas direccionales permaneceran estáticas en la parte superior de la pantalla. Otras flechas se desplazan desde la parte inferior de la pantalla hasta las flechas estáticas en la parte superior. El jugador debe ser uno con la musica, clickeando las flechas marcadas en la superficie del teclado. En algunas ocasiones dos o más flechas deben ser pulsadas al mismo tiempo, lo que obliga al jugador a actuar con mayor rapidez.
 
@@ -31,4 +31,4 @@ Que comience la fiesta!
    Agregaría más jugadores, y para aumentar la dificultad agregaría fleches en diagonal (asi serían 8 flechas) y a medida que avanza el juego cambiaría la dirección para que, en vez de que siempre suban, a veces bajen y a veces suban (o también para que algunas suben mientras otras bajan)
 
 ### 4) Porción del proyecto que me haya costado
-  Lo que me ha costado más fue 
+  Lo que me ha costado más fue la implemntación e interrelación de los conocimientos y superar el síndrome de la página en blanco, al no tener necesarimanete un trabajo de referncia, uno se pone se nervioso y no sabe como empezar.
