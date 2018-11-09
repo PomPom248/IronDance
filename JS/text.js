@@ -7,7 +7,7 @@ function Text(canvas) {
 }
 
 Text.prototype.countDown = function () {
-  this.canvas.ctx.font = '100px serif';
+  this.canvas.ctx.font = '100px Sansita';
   this.canvas.ctx.fillStyle = "white";
   this.canvas.ctx.textAlign = "center";
   this.canvas.ctx.strokeText(this.text, this.width/2, this.height/2);
