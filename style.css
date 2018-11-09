@@ -28,8 +28,9 @@ body{
 p, button, #score{
     font-family: 'Sansita', sans-serif;
 }
-p, button{
-    font-size: 18px;
+p{
+    font-size: 20px;
+    text-align: center;
 }
 button{
     width: 30%;
@@ -37,6 +38,7 @@ button{
     margin: 7px;
     background-color: rgb(5, 177, 177);
     color: white;
+    font-size: 18px;
 }
 #canvas{
     margin: 20px 30px;
@@ -55,7 +57,7 @@ button{
     height: 42px;
     width: 220px;
     position: fixed;
-    left: 880px;
+    left: 940px;
     top: 300px;
     display: none;
 }
@@ -65,7 +67,7 @@ button{
     height: 60px;
     width: 220px;
     position: fixed;
-    left: 880px;
+    left: 940px;
     top: 340px;
     display: none;
 }
@@ -74,7 +76,7 @@ button{
     height: 55px;
     width: 165px;
     position: fixed;
-    left: 895px;
+    left: 955px;
     top: 390px;
     display: none;
 }
@@ -83,7 +85,7 @@ button{
     height: 60px;
     width: 220px;
     position: fixed;
-    left: 880px;
+    left: 940px;
     top: 442px;
     display: none;
 }
