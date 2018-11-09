@@ -25,8 +25,6 @@ function Moving(canvas) {
     this.imgDown = new Image();
     this.imgDown.src = "Imagenes/arrow-down"
 
-
-
     this.score = 0;
     this.randomMove()
     this.setListeners();
@@ -148,11 +146,3 @@ Moving.prototype.setListeners = function () {
         }
     }.bind(this);
 }
-
-// Moving.prototype.counting = function () {
-//     if (document.getElementById("num") = 5) {
-//         setTimeout(function () {
-//             this.background.secondBc();
-//         }.bind(this), 10000)
-//     }
-// }
