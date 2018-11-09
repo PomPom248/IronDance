@@ -1,0 +1,91 @@
+
+body{
+    padding: 0;
+    text-align: center;
+}
+.intro{
+    float: left;
+    width: 50%;
+    margin: 40px 20px;
+}
+.game{
+    float: left;
+    width: 50%;
+} 
+.logo{
+    width: 355px;
+    margin-top: 60px;
+    height: 146px;
+}
+.totoro{
+    width: 310px;
+    height: 310px;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+} 
+h1{
+    font-size: 60px;
+    padding-top: 20px;
+    color: rgb(0, 194, 87);
+    text-shadow: 5px;
+    }
+p{
+    font-size: 18px;
+}
+button{
+    width: 30%;
+    height: 30px;
+    margin: 5px;
+    background-color: rgb(0, 189, 189);
+}
+#canvas{
+    margin: 20px 30px;
+    width: 410px;
+    height: 550px;
+    /* padding-right: 100px; */
+    background-image: url("Imagenes/b1_opt.jpg");
+    /* width: 50%; */
+    float: right;
+}
+#score{
+    font-size: 40px;
+}
+#perfect{
+    background-image: url(Imagenes/perfect);
+    height: 42px;
+    width: 220px;
+    position: fixed;
+    left: 880px;
+    top: 300px;
+    display: none;
+}
+
+#great{
+    background-image: url(Imagenes/great);
+    height: 60px;
+    width: 220px;
+    position: fixed;
+    left: 880px;
+    top: 340px;
+    display: none;
+}
+#early{
+    background-image: url(Imagenes/early);
+    height: 55px;
+    width: 165px;
+    position: fixed;
+    left: 895px;
+    top: 390px;
+    display: none;
+}
+#miss{
+    background-image: url(Imagenes/miss);
+    height: 60px;
+    width: 220px;
+    position: fixed;
+    left: 880px;
+    top: 442px;
+    display: none;
+}
