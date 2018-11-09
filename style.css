@@ -47,7 +47,7 @@ button{
     margin: 20px 30px;
     width: 410px;
     height: 550px;
-    background-image: url("Imagenes/b1_opt.jpg");
+    background-image: url(Imagenes/b1_opt.jpg);
     float: right;
 }
 #score{
