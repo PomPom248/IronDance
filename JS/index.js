@@ -7,7 +7,6 @@ window.onload = function () {
         canvas.startingGame() 
     }
 
-
     document.getElementById("two").onclick = function () { 
         var musicTwo = new Audio("Audio/beethoven.mp3"); 
         musicTwo.play(); 

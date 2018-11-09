@@ -44,9 +44,7 @@ button{
     margin: 20px 30px;
     width: 410px;
     height: 550px;
-    /* padding-right: 100px; */
     background-image: url("Imagenes/b1_opt.jpg");
-    /* width: 50%; */
     float: right;
 }
 #score{
